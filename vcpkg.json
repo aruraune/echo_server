@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "boost-asio",
+    "boost-endian",
+    "boost-uuid",
+    "boost-test",
+    "spdlog"
+  ]
+}
